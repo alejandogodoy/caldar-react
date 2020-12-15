@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "idType": "A",
+    "startTime": "08:00 ",
+    "endTime": "12:00",
+    "monthlyHours": "45"
+  },
+  {
+    "id": 2,
+    "idType": "B",
+    "startTime": "12:00 ",
+    "endTime": "15:32",
+    "monthlyHours": "22"
+  },
+  {
+    "id": 3,
+    "idType": "C",
+    "startTime": "14:30 ",
+    "endTime": "18:00",
+    "monthlyHours": "32"
+  },
+  {
+    "id": 4,
+    "idType": "D",
+    "startTime": "7:50 ",
+    "endTime": "12:34",
+    "monthlyHours": "49"
+  },
+  {
+    "id": 5,
+    "idType": "A",
+    "startTime": "17:45",
+    "endTime": "20:30",
+    "monthlyHours": "22"
+  }
+]
