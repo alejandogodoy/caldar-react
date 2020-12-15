@@ -1,0 +1,28 @@
+.addForm {
+  margin-bottom: 55px;
+  margin-top: 55px;
+  display: flex;
+}
+.inputStyle {
+  flex: 1;
+  padding: 4px;
+  margin: 3px;
+}
+.btnSubmit {
+  color: #fff;
+  margin-left: 15px;
+  padding: 5px;
+  background-color: #073e6e;
+  border: 1px solid #000;
+  font-weight: bold;
+  flex: 1;
+}
+.btnSubmit:hover {
+  color: #fff;
+  margin-left: 15px;
+  padding: 5px;
+  background-color: #3380c4;
+  border: 1px solid #000;
+  font-weight: bold;
+  flex: 1;
+}
